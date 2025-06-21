@@ -5,7 +5,7 @@ read number
 factorial=1
 
 if [ $number -lt 0 ]; then
-  echo "Factorial is not defined for negative numbers."
+  echo " This is  not defined for negative numbers."
   exit 1
 fi
 
